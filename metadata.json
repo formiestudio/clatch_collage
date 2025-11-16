@@ -1,0 +1,5 @@
+{
+  "name": "Interior Collage Generator",
+  "description": "An application to generate A4 landscape interior design proposals based on user's style preferences and selected furniture items, using Cassina as a base.",
+  "requestFramePermissions": []
+}
